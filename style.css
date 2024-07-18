@@ -1,5 +1,11 @@
 body {
-  background-color: rosybrown;
+  box-sizing: border-box;
+}
+
+.container-fluid {
+  background-color: #ff0000;
+  position: sticky;
+  margin-bottom: 100%;
 }
 
 .news-container {
