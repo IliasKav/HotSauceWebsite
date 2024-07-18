@@ -1,6 +1,6 @@
 .contact {
   flex: auto;
-  border: solid black 0.5em;
+  border: solid black 2px;
   margin-right: 90%;
   background-color: crimson;
 }
