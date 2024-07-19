@@ -58,8 +58,6 @@ body {
   width: 100%;
   background-color: rgba(255, 0, 0, 0.56);
   color: white;
-  /* text-align: right; */
-  justify-content: space-between;
 }
 
 a {
@@ -68,6 +66,8 @@ a {
 }
 
 .copyrights {
-  justify-content: center;
-  text-align: left;
+  position: absolute;
+  bottom: 1px; /* Adjust as needed */
+  width: 100%;
+  text-align: center;
 }
